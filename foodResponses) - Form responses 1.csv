@@ -1,0 +1,21 @@
+Timestamp,What type of cuisine do you prefer? (Multiple Choice)  ,How often do you eat out? (Multiple Choice)  ,What’s your favorite meal of the day? (Multiple Choice)  ,  Do you have any dietary restrictions?  ,"On average, how many servings of fruits and vegetables do you eat per day? (Multiple Choice)  ",How often do you cook at home? (Multiple Choice)  ,Do you prefer home-cooked meals or eating out? (Multiple Choice)  ,How often do you try new foods or recipes? (Multiple Choice)  ,Do you have a chef
+17/01/2025 14:46:33,Other (please specify),Once a week,Dinner,Vegetarian,2-3 servings,2-3 times a week,No preference,Occasionally (1-2 times a month),
+17/01/2025 14:46:59,Indian,2-3 times a week,Lunch,Lactose intolerant,0-1 servings,Once a week,Eating out,Never,yes
+17/01/2025 14:47:23,Mediterranean,Once a week,Dinner,,4-5 servings,Every day,No preference,Rarely,yes
+17/01/2025 14:48:22,Chinese,2-3 times a week,I don't have a preference,Vegan,4-5 servings,Rarely,No preference,Occasionally (1-2 times a month),
+17/01/2025 14:48:38,Mexican,Rarely,Breakfast,Gluten-free,,Once a week,,Frequently (at least once a week),
+17/01/2025 14:48:55,Italian,Daily,Snacks,None,0-1 servings,Rarely,Home-cooked meals,Rarely,
+17/01/2025 14:49:06,Italian,Once a week,Snacks,Vegetarian,6+ servings,2-3 times a week,No preference,Occasionally (1-2 times a month),yes
+17/01/2025 14:49:34,Mexican,2-3 times a week,I don't have a preference,Lactose intolerant,2-3 servings,4-6 times a week,Eating out,Occasionally (1-2 times a month),
+17/01/2025 14:50:13,Mediterranean,2-3 times a week,Snacks,Vegetarian,0-1 servings,Every day,No preference,Never,
+17/01/2025 14:50:31,Italian,Once every two weeks,Lunch,Other (please specify),0-1 servings,2-3 times a week,Home-cooked meals,Occasionally (1-2 times a month),yes
+17/01/2025 14:50:46,Indian,Once every two weeks,Breakfast,Vegan,2-3 servings,2-3 times a week,,,
+17/01/2025 14:52:10,Mediterranean,2-3 times a week,Breakfast,Lactose intolerant,4-5 servings,2-3 times a week,Eating out,Occasionally (1-2 times a month),yes
+17/01/2025 14:53:17,Mexican,2-3 times a week,Snacks,None,,Once a week,,,
+17/01/2025 14:58:41,Other (please specify),Rarely,I don't have a preference,Gluten-free,,,,Never,yes
+17/01/2025 14:58:57,Other (please specify),Once a week,Snacks,Vegan,0-1 servings,,Eating out,Occasionally (1-2 times a month),
+17/01/2025 14:59:51,Mexican,Once a week,I don't have a preference,Lactose intolerant,0-1 servings,Every day,Home-cooked meals,,
+17/01/2025 15:00:09,Chinese,2-3 times a week,Snacks,None,6+ servings,,Eating out,Rarely,yes
+17/01/2025 15:00:27,,Daily,,Vegan,,4-6 times a week,,Rarely,
+17/01/2025 15:00:42,,Once a week,,Lactose intolerant,,4-6 times a week,,Occasionally (1-2 times a month),
+17/01/2025 15:01:01,Japanese,Daily,Breakfast,Gluten-free,6+ servings,4-6 times a week,Home-cooked meals,Rarely,yes
